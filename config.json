@@ -1,0 +1,24 @@
+{
+   "params": 
+   {
+        "local_server": "True",
+        "local_uri": "mysql://root:xavier4945@localhost/flask_database",
+        "prod_uri": "mysql://root:xavier4945@localhost/flask_database",
+        "fb_url": "https://www.facebook.com/babble",
+        "tw_url": "https://www.twitter.com/babble",
+        "gh_url": "https://www.github.com/babble",
+        "mail_user": "hailthespartan35@gmail.com",
+        "mail_password": "Aligarh@123",
+        "about_text": "This website is designed and implemented using Flask microframework. This is a porject by SUHAIL SHAMIM.",
+        "no_of_posts": "3",
+        "blog_name": "BABBLE",
+        "login_image": "login.svg",
+        "admin_user": "suhail",
+        "admin_pass": "xavier"
+
+
+
+   }
+
+
+}
